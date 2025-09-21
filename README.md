@@ -10,6 +10,7 @@
 - Click Create repository
 
 <img width="1286" height="421" alt="image" src="https://github.com/user-attachments/assets/cf986f1e-ce2c-4bb8-887c-c5b84d3696f8" />
+
 - Click Code then Create Codespace
 
 2. Clone your GitHub repo
