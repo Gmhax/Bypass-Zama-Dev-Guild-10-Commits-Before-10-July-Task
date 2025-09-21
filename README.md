@@ -1,4 +1,6 @@
 # Bypass-Zama-Dev-Guild-10-Commits-Before-10-July-Task
+<img width="1256" height="827" alt="image" src="https://github.com/user-attachments/assets/e604e5c1-bbfc-4de6-a8cb-a35682d54fe5" />
+
 
 ## Instructions
 1. Create a New Repository
